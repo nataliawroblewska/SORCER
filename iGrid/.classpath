@@ -3,6 +3,7 @@
 	<classpathentry kind="src" path="modules/examples/pml/src"/>
 	<classpathentry kind="src" path="modules/examples/vml/src"/>
 	<classpathentry kind="src" path="modules/examples/account/sorcer/src"/>
+	<classpathentry kind="src" path="modules/examples/shelter/sorcer/src"/>
 	<classpathentry kind="src" path="netlets"/>
 	<classpathentry kind="src" path="modules/tools/shell/src"/>
 	<classpathentry kind="src" path="modules/tools/locker/src"/>
@@ -20,6 +21,7 @@
 	<classpathentry kind="src" path="modules/examples/ex1/src"/>
 	<classpathentry kind="src" path="modules/examples/ex2/src"/>
 	<classpathentry kind="src" path="modules/examples/ex3/src"/>
+
 	<classpathentry kind="src" path="modules/examples/arithmetic/requestor/secure-arithmetic-serviceui/src"/>
 	<classpathentry kind="src" path="modules/examples/arithmetic/requestor/ssl-jeri-pv/src"/>
 	<classpathentry kind="src" path="modules/examples/arithmetic/requestor/ssl-jeri-ma/src"/>

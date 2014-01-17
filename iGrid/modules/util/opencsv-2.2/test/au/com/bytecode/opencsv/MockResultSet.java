@@ -764,4 +764,102 @@ public class MockResultSet implements ResultSet {
     public boolean isWrapperFor(Class<?> aClass) throws SQLException {
         return false;  //To change body of implemented methods use File | Settings | File Templates.
     }
+
+
+	@Override
+	public NClob getNClob(int arg0) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public NClob getNClob(String arg0) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public <T> T getObject(int arg0, Class<T> arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public <T> T getObject(String arg0, Class<T> arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public RowId getRowId(int arg0) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public RowId getRowId(String arg0) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public SQLXML getSQLXML(int arg0) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public SQLXML getSQLXML(String arg0) throws SQLException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public void updateNClob(int arg0, NClob arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	@Override
+	public void updateNClob(String arg0, NClob arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	@Override
+	public void updateRowId(int arg0, RowId arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	@Override
+	public void updateRowId(String arg0, RowId arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	@Override
+	public void updateSQLXML(int arg0, SQLXML arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	@Override
+	public void updateSQLXML(String arg0, SQLXML arg1) throws SQLException {
+		// TODO Auto-generated method stub
+		
+	}
 }
